@@ -1,6 +1,6 @@
 @echo off
 
-:: Deployment check v 1.0
+:: Deployment check 2017.03.05
 :: Written by Joshua Fox
 
 :: TODO: instead of instruct user to add to path, 
