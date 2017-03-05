@@ -2,8 +2,7 @@
 ## Personalized Perl Script to Sort Media Between Tv Shows (Specific) and Movies 
 ** Work in Progress **
 ## PREREQS
-** This is a script based on Windows platforms **
-* Author: AJ Klinger - aj.klinger21@gmail.com		       
+** This is a script based on Windows platforms **		       
 * Must have 7z.exe installed, the command line version of 7zip, the GUI Version only will not work.					        
   * Confirmed $version 9.20 and higher have it with Windows version.  												                        
 * Set Env. Variable in Windows to 7z.exe unless you want to specify full path of the 7z.exe in the %zconfigs exec. 	
@@ -27,3 +26,5 @@
 * My current setup uses a NAS over a LAN and this so far has worked very well, as it is mapped to a drive on the computer I execute the     script from.    
 *	It should also be noted that I am a Perl noob, but gernally well versed at procedural programming as I do it for a living.  This is my     first real Perl script and GitHub repo.  
 * Cheers!
+
+* Author: AJ Klinger - aj.klinger21@gmail.com
