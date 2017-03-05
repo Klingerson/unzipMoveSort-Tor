@@ -24,7 +24,7 @@
 * The primary scope at the moment is to simplify sorting and managing new media files rather than organizing an existing library  
 * Define a landing location for the downloaded media files and a destination directory for your Tv and Movie directories  
 * My current setup uses a NAS over a LAN and this so far has worked very well, as it is mapped to a drive on the computer I execute the     script from    
-*	It should also be noted that I am a Perl noob, but generally well versed at procedural programming as I do it for a living.  This is my   first real Perl script and GitHub repo 
+*	It should also be noted that I am a Perl noob, but generally well versed at procedural programming as I do it for a living.  This is my   first real Perl script and GitHub repo
 * Cheers!
 
 * Author: AJ Klinger - aj.klinger21@gmail.com
