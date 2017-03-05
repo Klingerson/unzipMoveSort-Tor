@@ -11,9 +11,9 @@
 * Tv Shows must be clear and concise with correct spelling.  Eg. 'Dexter' or 'Game of Thrones'.
 * Seasons Must be in this format 'Season 1' or 'Season 01'.  														                            
   * 'Season One' with the number spelled out could work with a slight modification.  								                  
-* Must have Perl Installed.  For Windows Google/install Strawberry Perl.  Linux prolly already has it installed.
+* Must have Perl Installed (obviously).  For Windows Google/install Strawberry Perl.  Linux prolly already has it installed.
 * RUN from CMD after ENV VAR Set after Strawberry Perl installed: 'cpan Getopt::Long'							                  
-* Normal syntax Perl (Command Line) or Windows Command C:\%PERL SCRIPT PATH% 'perl unzipMoveRename.pl.
+* Normal syntax Perl (Command Line) or Windows Command 'C:\%PERL SCRIPT PATH% 'perl unzipMoveRename.pl'.
 
 ** TODO (WIP) **
 * Implement a clean POD documentation for this script.  														                              
@@ -22,8 +22,8 @@
 * A lot more to follow.
 
 ** USE CASE	**
-* The primary scope at the moment is to simplify sorting and managing new torrent files rather than organizing an existing library.  
-* Define a landing location for the downloaded Tor files and a destination directory for your Tv and Movie directories.  
-* My current setup   uses a NAS over a LAN and this so far has worked very well, as it is mapped to a drive on the computer I execute the   script from.    
-*	It should also be noted that I am a Perl noob, but great at procedural programming as I do it for a living.  This is my first real Perl   script and GitHub repo.  
+* The primary scope at the moment is to simplify sorting and managing new media files rather than organizing an existing library.  
+* Define a landing location for the downloaded media files and a destination directory for your Tv and Movie directories.  
+* My current setup uses a NAS over a LAN and this so far has worked very well, as it is mapped to a drive on the computer I execute the     script from.    
+*	It should also be noted that I am a Perl noob, but gernally well versed at procedural programming as I do it for a living.  This is my     first real Perl script and GitHub repo.  
 * Cheers!
