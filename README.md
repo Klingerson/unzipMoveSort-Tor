@@ -13,12 +13,14 @@
   * 'Season One' with the number spelled out could work with a slight modification.  								                  
 * Must have Perl Installed.  For Windows Google/install Strawberry Perl.  Linux prolly already has it installed.
 * RUN from CMD after ENV VAR Set after Strawberry Perl installed: 'cpan Getopt::Long'							                  
-* Normal syntax Perl (Command Line) or Windows Command C:\%PERL SCRIPT PATH% 'perl unzipMoveRename.pl
+* Normal syntax Perl (Command Line) or Windows Command C:\%PERL SCRIPT PATH% 'perl unzipMoveRename.pl.
+
 ** TODO (WIP) **
 * Implement a clean POD documentation for this script.  														                              
 * Create a .conf file that lets others define variables and load them into the script when called.				        
 * Create a soft test switch, which only produces output rather than touching files and directories.
 * A lot more to follow.
+
 ** USE CASE	**
 * The primary scope at the moment is to simplify sorting and managing new torrent files rather than organizing an existing library.  
 * Define a landing location for the downloaded Tor files and a destination directory for your Tv and Movie directories.  
